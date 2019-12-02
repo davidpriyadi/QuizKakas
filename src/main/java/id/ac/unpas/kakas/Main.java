@@ -7,7 +7,6 @@ public class Main {
 	public static void main(String[] args) {
 		int n1 , n2 , hasil, menu ;
 		Scanner sc = new Scanner(System.in);
-		
 		System.out.println("Pilih Menu");
 		System.out.println("1. Tambah");
 		System.out.println("2. Kurang");
